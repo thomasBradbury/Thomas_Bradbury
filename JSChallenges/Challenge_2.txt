@@ -1,4 +1,0 @@
-var firstName = 'Thomas'
-var lastName = ' Bradbury'
-
-console.log(Hello there! My name is' + firstName + lastName

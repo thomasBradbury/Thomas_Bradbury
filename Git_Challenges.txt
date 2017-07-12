@@ -1,9 +1,0 @@
-1. Git Status
-
-2. git checkout -b calculator
-
-3. git branch
-
-4. git merge clownNose
-
-5. git init myRepo

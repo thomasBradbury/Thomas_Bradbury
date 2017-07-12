@@ -1,8 +1,0 @@
-var myArray = new Array();
-myArray[0] = "Thomas"
-myArray[1] = "notThomas"
-myArray[2] = "maybeThomas"
-myArray[3] = "almostThomas"
-for (var i=0; i<myArray.length; i++) {
-  console.log(myArray[i]);
-}
